@@ -1,16 +1,27 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<!--
-**vokeko/vokeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Zdravím!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### :woman_technologist: O mně :
+
+Jsem .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> z České republiky.
+
+- 🔭 Pracuji jako C# .NET developer s přelivem do ostatních programovacích jazyků (HTML, JS, CSS, MVC, WPF...)
+- ⚡ Fascinují mě počítačové hry, technologie a programování.
+- 🐈‍⬛ Miluji kočky.
+
+---
+
+### Moje nejčastěji používané jazyky:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vokeko)](https://github.com/anuraghazra/github-readme-stats)
